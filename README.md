@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcosdh1987
-- 👀 I’m interested in technologies AI and science
+- 👀 I’m interested in technologies AI and Data science
 - 🌱 I’m currently learning Data Science, Machine Learning and Python Dev
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💞️ I’m looking to collaborate on Big Data projects
 - 📫 How to reach me...here
 
 <!---
